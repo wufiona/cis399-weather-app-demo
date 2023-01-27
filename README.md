@@ -3,4 +3,4 @@ Hello! This is my weather app re-endition with a focus on reminders and location
 Below, you will not a figma mockup and the final layout. 
 
 
-![figma mockup](figsSMALl.png) ![final layout](finalapplayoutsmall.png)
+![figma mockup](figsSMALl.png) ![final layout]("finalapplayoutsmall.png")
